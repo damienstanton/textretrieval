@@ -7,3 +7,5 @@ To explore relevant notebooks:
 ```sh
 python3 -m venv env && source env bin activate && pip3 install jupyter && jupyter notebook
 ```
+
+Distributed under the MIT license
